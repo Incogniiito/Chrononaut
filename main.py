@@ -55,8 +55,8 @@ def Submit():
 
 
 @app.route('/pri', methods=['GET', 'POST'])
-def pri(question = ''):
-    if request.method == 'POST':
+def pri(question):
+    if request.method == 'GET':
         def get_soup(url, header):
             return BeautifulSoup(urllib.request.urlopen(urllib.request.Request(url, headers=header)), 'html.parser')
 

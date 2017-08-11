@@ -55,14 +55,14 @@ function put_message($message_input) {
 
     $message = $($('.message_template').clone().html());
     arg = {question: $message_input};
-    $.ajax({url: '/pri', data: arg, type: 'POST',
+    $.ajax({url: '/pri', data: arg, type: 'GET',
         error: function(){
         },
         success: function(data) {
             console.log(data);
-            // var string1 = '<img src=%s>';
-            // string1.replace('%s', data);
-            // $message_input = $message_input + " " + string1;
+            var string1 = '<img src=%s>';
+            string1.replace('%s', data);
+            $message_input = $message_input + " " + string1;
         }
     });
 

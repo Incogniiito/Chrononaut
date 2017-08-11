@@ -6,636 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aca80a4-5e59-4540-842f-bd2fa778180c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/alb.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/grayscale.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/AE.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MKG.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/downloads-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/intro-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/map-marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/in.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/grayscale.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/grayscale.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/javascri.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/grayscale.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Flask-0.12.1.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Jinja2-2.9.6.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/MarkupSafe-1.0.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/Werkzeug-0.12.2.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click-6.7.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/_bashcomplete.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/_termui_impl.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/_textwrap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/_unicodefun.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/_winconsole.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/core.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/decorators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/formatting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/globals.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/termui.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/click/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/__main__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/blueprints.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/cli.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/ctx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/debughelpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/ext/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/exthook.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/globals.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/json.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/logging.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/sessions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/signals.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/templating.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/testing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/flask/wrappers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/entry_points.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn-19.7.1.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/app/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/app/pasterapp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/app/wsgiapp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/arbiter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/argparse_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/debug.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/errors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/glogging.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/_sendfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/body.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/errors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/message.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/unreader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/http/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/instrument/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/instrument/statsd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/pidfile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/reloader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/selectors.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/six.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/sock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/systemd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/_gaiohttp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/async.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/gaiohttp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/geventlet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/ggevent.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/gthread.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/gtornado.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/sync.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/gunicorn/workers/workertmp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous-0.24.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/itsdangerous.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/_stringdefs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/asyncfilters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/asyncsupport.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/bccache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/compiler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/debug.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/defaults.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/environment.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/ext.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/idtracking.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/lexer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/loaders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/meta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/nodes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/optimizer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/runtime.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/sandbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jinja2/visitor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/markupsafe/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/markupsafe/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/markupsafe/_constants.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/markupsafe/_native.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/markupsafe/_speedups.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/markupsafe/_speedups.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk-3.2.4.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/VERSION" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/chartparser_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/chunkparser_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/collocations_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/concordance_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/nemo_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/rdparser_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/srparser_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/wordfreq_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/app/wordnet_app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/book.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/ccg/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/ccg/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/ccg/chart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/ccg/combinator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/ccg/lexicon.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/ccg/logic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/eliza.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/iesha.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/rude.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/suntsu.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chat/zen.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chunk/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chunk/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chunk/named_entity.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chunk/regexp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/chunk/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/decisiontree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/maxent.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/megam.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/naivebayes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/positivenaivebayes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/rte_classify.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/scikitlearn.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/senna.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/svm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/tadm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/textcat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/classify/weka.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/cluster/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/cluster/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/cluster/em.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/cluster/gaac.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/cluster/kmeans.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/cluster/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/collections.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/collocations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/europarl_raw.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/aligned.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/bnc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/bracket_parse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/categorized_sents.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/chasen.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/childes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/chunked.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/cmudict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/comparative_sents.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/conll.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/crubadan.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/dependency.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/framenet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/ieer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/indian.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/ipipan.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/knbc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/lin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/mte.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/nkjp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/nombank.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/nps_chat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/opinion_lexicon.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/panlex_lite.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/pl196x.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/plaintext.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/ppattach.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/propbank.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/pros_cons.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/reviews.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/rte.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/semcor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/senseval.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/sentiwordnet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/sinica_treebank.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/string_category.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/switchboard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/tagged.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/timit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/toolbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/twitter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/udhr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/verbnet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/wordlist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/wordnet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/xmldocs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/reader/ycoe.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/corpus/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/decorators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/downloader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/draw/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/draw/cfg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/draw/dispersion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/draw/table.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/draw/tree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/draw/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/featstruct.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/grammar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/help.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/discourse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/mace.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/nonmonotonic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/prover9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/resolution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/inference/tableau.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/internals.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/jsontags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/lazyimport.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/agreement.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/aline.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/association.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/confusionmatrix.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/distance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/paice.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/scores.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/segmentation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/metrics/spearman.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/misc/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/misc/babelfish.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/misc/chomsky.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/misc/minimalset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/misc/sort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/misc/wordfinder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/bllip.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/chart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/corenlp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/dependencygraph.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/earleychart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/evaluate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/featurechart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/generate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/malt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/nonprojectivedependencyparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/pchart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/projectivedependencyparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/recursivedescent.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/shiftreduce.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/stanford.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/transitionparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/parse/viterbi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/probability.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/boxer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/chat80.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/cooper_storage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/drt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/drt_glue_demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/evaluate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/glue.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/hole.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/lfg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/linearlogic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/logic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/relextract.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/skolemize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sem/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sentiment/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sentiment/sentiment_analyzer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sentiment/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/sentiment/vader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/isri.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/lancaster.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/porter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/regexp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/rslp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/snowball.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/stem/wordnet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/brill.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/brill_trainer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/crf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/hmm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/hunpos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/mapping.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/perceptron.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/senna.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/sequential.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/stanford.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/tnt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tag/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/erroranalysis.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/feature.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/rule.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tbl/template.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/all.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/bleu.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/bnc.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/ccg.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/ccg_semantics.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/chat80.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/childes.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/childes_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/chunk.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/classify.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/classify_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/collocations.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/compat.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/compat_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/corpus.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/corpus_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/crubadan.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/data.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/dependency.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/discourse.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/discourse_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/doctest_nose_plugin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/drt.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/featgram.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/featstruct.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/framenet.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/generate.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/gensim.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/gensim_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/gluesemantics.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/gluesemantics_malt.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/gluesemantics_malt_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/grammar.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/grammartestsuites.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/index.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/inference.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/inference_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/internals.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/japanese.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/logic.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/metrics.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/misc.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/nonmonotonic.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/nonmonotonic_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/paice.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/parse.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/portuguese_en.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/portuguese_en_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/probability.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/probability_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/propbank.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/relextract.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/resolution.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/runtests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/segmentation_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/semantics.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/semantics_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/sentiment.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/sentiwordnet.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/simple.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/stem.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/tag.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/tokenize.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/toolbox.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/translate.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/translate_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/tree.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/treeprettyprinter.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/treetransforms.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_2x_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_aline.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_chunk.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_classify.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_collocations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_corpora.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_corpus_views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_hmm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_json2csv_corpus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_naivebayes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_seekable_unicode_stream_reader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_senna.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_stem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_tag.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_tgrep.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_tokenize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/test_twitter_auth.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_bleu.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_ibm1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_ibm2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_ibm3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_ibm4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_ibm5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_ibm_model.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/translate/test_stack_decoder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/unit/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/util.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/wordnet.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/wordnet_fixt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/wordnet_lch.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/test/wsd.doctest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/text.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tgrep.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/casual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/moses.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/mwe.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/punkt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/regexp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/repp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/sexpr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/simple.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/stanford.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/stanford_segmenter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/texttiling.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/toktok.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/treebank.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tokenize/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/toolbox.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/bleu_score.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/chrf_score.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/gale_church.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/gdfa.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/gleu_score.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ibm1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ibm2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ibm3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ibm4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ibm5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ibm_model.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/metrics.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/phrase_based.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/ribes_score.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/translate/stack_decoder.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/tree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/treeprettyprinter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/treetransforms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/twitter/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/twitter/api.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/twitter/common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/twitter/twitter_demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/twitter/twitterclient.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/twitter/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/nltk/wsd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six-1.10.0.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/six.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/_compat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/_internal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/_reloader.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/atom.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/cache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/fixers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/iterio.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/jsrouting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/limiter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/lint.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/profiler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/securecookie.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/sessions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/testtools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/contrib/wrappers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/datastructures.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/console.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/repr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/FONT_LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/console.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/debugger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/less.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/source.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/shared/ubuntu.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/debug/tbtools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/filesystem.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/formparser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/http.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/local.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/posixemulation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/routing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/script.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/security.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/serving.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/testapp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/useragents.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/wrappers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/werkzeug/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run_demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/grayscale.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/single.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/intro-bg.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/new.iml" afterPath="$PROJECT_DIR$/.idea/new.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/grayscale.min.css" afterPath="$PROJECT_DIR$/static/css/grayscale.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/javascri.js" afterPath="$PROJECT_DIR$/static/js/javascri.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/albert.html" afterPath="$PROJECT_DIR$/templates/albert.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/apj.html" afterPath="$PROJECT_DIR$/templates/apj.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/file.html" afterPath="$PROJECT_DIR$/templates/file.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/in.html" afterPath="$PROJECT_DIR$/templates/in.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -647,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="80" column="38" lean-forward="false" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+            <state relative-caret-position="52">
+              <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
@@ -659,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascri.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="javascri.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/javascri.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            <state relative-caret-position="185">
+              <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -673,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/templates/in.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="59">
-              <caret line="242" column="23" lean-forward="true" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+              <caret line="242" column="23" lean-forward="false" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#5680#5686#0" expanded="true" />
@@ -698,30 +72,27 @@
       <file leaf-file-name="file.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/file.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="224" column="35" lean-forward="false" selection-start-line="224" selection-start-column="35" selection-end-line="224" selection-end-column="35" />
+            <state relative-caret-position="222">
+              <caret line="230" column="37" lean-forward="false" selection-start-line="230" selection-start-column="37" selection-end-line="230" selection-end-column="37" />
               <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7091#7097#0" expanded="true" />
-                <element signature="e#7097#7103#0" expanded="true" />
-                <element signature="e#7103#7109#0" expanded="true" />
-                <element signature="e#7109#7115#0" expanded="true" />
-                <element signature="e#7115#7121#0" expanded="true" />
-                <element signature="e#7121#7127#0" expanded="true" />
-                <element signature="e#7127#7133#0" expanded="true" />
-                <element signature="e#7133#7139#0" expanded="true" />
-                <element signature="e#7139#7145#0" expanded="true" />
-                <element signature="e#7472#7478#0" expanded="true" />
-                <element signature="e#7478#7484#0" expanded="true" />
-                <element signature="e#7484#7490#0" expanded="true" />
-                <element signature="e#7490#7496#0" expanded="true" />
-                <element signature="e#7496#7502#0" expanded="true" />
-                <element signature="e#7502#7508#0" expanded="true" />
-                <element signature="e#7508#7514#0" expanded="true" />
-                <element signature="e#7514#7520#0" expanded="true" />
-                <element signature="e#7520#7526#0" expanded="true" />
+                <element signature="e#7028#7034#0" expanded="true" />
+                <element signature="e#7034#7040#0" expanded="true" />
+                <element signature="e#7040#7046#0" expanded="true" />
+                <element signature="e#7046#7052#0" expanded="true" />
+                <element signature="e#7052#7058#0" expanded="true" />
+                <element signature="e#7058#7064#0" expanded="true" />
+                <element signature="e#7064#7070#0" expanded="true" />
+                <element signature="e#7070#7076#0" expanded="true" />
+                <element signature="e#7076#7082#0" expanded="true" />
+                <element signature="e#7409#7415#0" expanded="true" />
+                <element signature="e#7415#7421#0" expanded="true" />
+                <element signature="e#7421#7427#0" expanded="true" />
+                <element signature="e#7427#7433#0" expanded="true" />
+                <element signature="e#7433#7439#0" expanded="true" />
+                <element signature="e#7439#7445#0" expanded="true" />
+                <element signature="e#7445#7451#0" expanded="true" />
+                <element signature="e#7451#7457#0" expanded="true" />
+                <element signature="e#7457#7463#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -821,11 +192,11 @@
         <option value="$PROJECT_DIR$/css/grayscale.min.css" />
         <option value="$PROJECT_DIR$/static/css/grayscale.min.css" />
         <option value="$PROJECT_DIR$/templates/in.html" />
-        <option value="$PROJECT_DIR$/static/js/javascri.js" />
         <option value="$PROJECT_DIR$/templates/albert.html" />
         <option value="$PROJECT_DIR$/templates/apj.html" />
         <option value="$PROJECT_DIR$/templates/file.html" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/static/js/javascri.js" />
       </list>
     </option>
   </component>
@@ -1420,14 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/javascri.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/images/cloud.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1468,7 +831,7 @@
     <entry file="file://$PROJECT_DIR$/templates/in.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
-          <caret line="242" column="23" lean-forward="true" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
+          <caret line="242" column="23" lean-forward="false" selection-start-line="242" selection-start-column="23" selection-end-line="242" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#5680#5686#0" expanded="true" />
@@ -1491,41 +854,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/file.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="224" column="35" lean-forward="false" selection-start-line="224" selection-start-column="35" selection-end-line="224" selection-end-column="35" />
+        <state relative-caret-position="222">
+          <caret line="230" column="37" lean-forward="false" selection-start-line="230" selection-start-column="37" selection-end-line="230" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7091#7097#0" expanded="true" />
-            <element signature="e#7097#7103#0" expanded="true" />
-            <element signature="e#7103#7109#0" expanded="true" />
-            <element signature="e#7109#7115#0" expanded="true" />
-            <element signature="e#7115#7121#0" expanded="true" />
-            <element signature="e#7121#7127#0" expanded="true" />
-            <element signature="e#7127#7133#0" expanded="true" />
-            <element signature="e#7133#7139#0" expanded="true" />
-            <element signature="e#7139#7145#0" expanded="true" />
-            <element signature="e#7472#7478#0" expanded="true" />
-            <element signature="e#7478#7484#0" expanded="true" />
-            <element signature="e#7484#7490#0" expanded="true" />
-            <element signature="e#7490#7496#0" expanded="true" />
-            <element signature="e#7496#7502#0" expanded="true" />
-            <element signature="e#7502#7508#0" expanded="true" />
-            <element signature="e#7508#7514#0" expanded="true" />
-            <element signature="e#7514#7520#0" expanded="true" />
-            <element signature="e#7520#7526#0" expanded="true" />
+            <element signature="e#7028#7034#0" expanded="true" />
+            <element signature="e#7034#7040#0" expanded="true" />
+            <element signature="e#7040#7046#0" expanded="true" />
+            <element signature="e#7046#7052#0" expanded="true" />
+            <element signature="e#7052#7058#0" expanded="true" />
+            <element signature="e#7058#7064#0" expanded="true" />
+            <element signature="e#7064#7070#0" expanded="true" />
+            <element signature="e#7070#7076#0" expanded="true" />
+            <element signature="e#7076#7082#0" expanded="true" />
+            <element signature="e#7409#7415#0" expanded="true" />
+            <element signature="e#7415#7421#0" expanded="true" />
+            <element signature="e#7421#7427#0" expanded="true" />
+            <element signature="e#7427#7433#0" expanded="true" />
+            <element signature="e#7433#7439#0" expanded="true" />
+            <element signature="e#7439#7445#0" expanded="true" />
+            <element signature="e#7445#7451#0" expanded="true" />
+            <element signature="e#7451#7457#0" expanded="true" />
+            <element signature="e#7457#7463#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="80" column="38" lean-forward="false" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        <state relative-caret-position="52">
+          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/javascri.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="58" column="26" lean-forward="false" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

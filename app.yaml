@@ -1,0 +1,96 @@
+runtime: python
+env: flex
+entrypoint: gunicorn -b :$PORT main:app
+
+runtime_config:
+  python_version: 3
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /images
+  static_dir: images/
+
+
+- url: /img
+  static_dir: img/
+
+- url: /js
+  static_dir: js/
+
+- url: /less
+  static_dir: less/
+
+- url: /sass
+  static_dir: sass/
+
+- url: /css
+  static_dir: css/
+
+- url: /vendor/font-awesome/css
+  static_dir: vendor/font-awesome/css/
+
+- url: /basic
+  static_dir: basic/
+
+- url: /basic/__pycache__
+  static_dir: basic/__pycache__/
+
+- url: /data/squad
+  static_dir: data/squad/
+
+- url: /inter_ensemble
+  static_dir: inter_ensemble/
+
+- url: /inter_single
+  static_dir: inter_single/
+
+- url: /my
+  static_dir: my/
+
+- url: /my/__pycache__
+  static_dir: my/__pycache__/
+
+- url: /my/__pycache__
+  static_dir: my/__pycache__/
+
+- url: /my/tensorflow
+  static_dir: my/tensorflow/
+
+- url: /my/tensorflow/__pycache__
+  static_dir: my/tensorflow/__pycache__/
+
+- url: /save/37
+  static_dir: save/37/
+
+- url: /squad
+  static_dir: squad/
+
+- url: /squad/_pycache
+  static_dir: squad/_pycache/
+
+- url: /vendor/font-awesome/fonts
+  static_dir: vendor/font-awesome/fonts/
+
+- url: /vendor/font-awesome/less
+  static_dir: vendor/font-awesome/less/
+
+- url: /vendor/font-awesome/scss
+  static_dir: vendor/font-awesome/scss/
+
+- url: /vendor/bootstrap/css
+  static_dir: vendor/bootstrap/css/
+
+- url: /vendor/bootstrap/fonts
+  static_dir: vendor/bootstrap/fonts/
+
+- url: /vendor/bootstrap/js
+  static_dir: vendor/bootstrap/js/
+
+- url: /vendor/jquery
+  static_dir: vendor/jquery/
+
+- url: .*
+  script: main.app

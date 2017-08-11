@@ -2,6 +2,7 @@
 <html lang="en">
 <style>
 
+
     .text{
         font-size: x-large;
         font-family: "Berlin Sans FB";
@@ -17,12 +18,35 @@
         width: 1410px;
         margin: auto;
     }
+    .image{
+        height: 300px;
+        width: 600px;
+    }
     .img {
         width: 450px;
         height: 500px;
         background-position: 50% 50%;
         background-repeat: no-repeat;
         background-size: cover;
+    }
+    @keyframes animatedBackground {
+      from {
+        background-position: 0 0;
+      }
+      to {
+        background-position: 100% 0;
+      }
+    }
+    #animate-area {
+      width: 200px;
+      height: 200px;
+      background-image: url(http://placekitten.com/400/200);
+      background-position: 0px 0px;
+      background-repeat: repeat-x;
+      animation: animatedBackground 10s linear infinite alternate;
+    }
+    body, html {
+        height: 100%;
     }
 </style>
 <head>
@@ -61,6 +85,7 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <!-- Navigation -->
+
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
@@ -101,8 +126,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">Chrononaut<br><h1 class="brand-heading">कालयात्री</h1></h1>
-                        <p class="intro-text">A chatbot, which mimics great people of historic times:)</p>
+                        <br><br><br><br><br><br>
+                        <img class = "image" src="../static/images/logo.png">
+                        <h1 class="brand-heading" style="color:black;">Chrononaut</h1>
+                        <h1 class="brand-heading" style="color:black;">कालयात्री</h1>
+                        <p class="intro-text" style="color:black;">A chatbot, which mimics great people of historic times:)</p>
+                        <!--<div id="animate-area"><img  src="../static/images/cloud.gif"></div>-->
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -116,8 +145,14 @@
     <section id="about" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>About AI ChatBot</h2>
-                <p></p>
+                <h2>About Chrononaut</h2>
+                <p>CHRONONAUT is an interactive application through which Children can interact and get the feel that they are talking with the famous personality, the bot is modelling. Since, studieshave shown that information given through interactiveapplications are better understood by the children than
+                    traditional books.
+                    <br>They would feel that they are speaking with the
+                    personality directly and hence, would keep them interested. This
+                    application would help Children to learn about famous personalities,
+                    talk to them and get inspired by them!
+                <br>Studies have shown that Students who learn through interactive portals learn more quicky.</p>
             </div>
         </div>
     </section>
@@ -139,6 +174,13 @@
 								<table>
 									<tr>
 										<th>
+                                            <span class = "text">Albert Einstein</span><br>
+											<a href = "/albert">
+												<img class = "img img-rounded" src="http://orig03.deviantart.net/7d28/f/2012/361/1/6/albert_einstein_by_zuzahin-d5pcbug.jpg">
+											</a>
+										</th>
+                                        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+										<th>
 											<span class = "text">Mahatma Gandhi</span><br>
 											<a href = "/mkg">
 												<img class = "img img-rounded" src="https://s-media-cache-ak0.pinimg.com/originals/46/f6/e8/46f6e8e66df60967f5a7167de25aeb53.jpg">
@@ -146,16 +188,10 @@
 										</th>
                                         <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 										<th>
-											<span class = "text">Albert Einstein</span><br>
-											<a href = "/albert">
-												<img class = "img img-rounded" src="http://orig03.deviantart.net/7d28/f/2012/361/1/6/albert_einstein_by_zuzahin-d5pcbug.jpg">
-											</a>
-										</th>
-                                        <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-										<th>
-											<span class = "text">APJ Gandhi</span><br>
+											<span class = "text">APJ Abdul Kalam</span><br>
 											<a href = "/apj">
-												<img class = "img img-rounded" src="https://s-media-cache-ak0.pinimg.com/originals/46/f6/e8/46f6e8e66df60967f5a7167de25aeb53.jpg">
+												<img class = "img img-rounded" src="http://media.indiatimes.in/media/content/itimes/photo/2014/Dec/16/1418745988-indian-muslim-legends-dr-a-p-j-abdul-kalam-54905884b1dce.jpg">
+
 											</a>
 										</th>
 									</tr>
@@ -169,13 +205,13 @@
 
 
 		  	</div>
-		</div>
+    </div>
     <section id="download" class="content-section text-center">
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Use AI ChatBot</h2>
-                    <p>You can use AI ChatBot by clicking below</p>
+                    <h2>Use Chrononaut</h2>
+                    <p>You can use Chrononaut by clicking below</p>
                     <button  class="btn btn-default btn-lg" type="button" data-toggle="modal" data-target="#myModal">Click Here</button>
                 </div>
             </div>
@@ -187,31 +223,30 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact Us</h2>
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <h2>Lakshay Sahni<h2>
+                    </li>
+                    <li>
+                        <h2>Shivang Verma<h2>
+                    </li>
+                </ul>
                 <p>Feel free to email us to provide some feedback on our project, give us suggestions for new features, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com"></a>
+                <p><a href=""></a>
                 </p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
+                        <a href="https://github.com/Incogniiito" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                     </li>
                 </ul>
             </div>
         </div>
     </section>
-
     <!-- Map Section -->
 
     <!-- Footer -->
     <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; Your Website 2016</p>
-        </div>
+
     </footer>
 
     <!-- jQuery -->

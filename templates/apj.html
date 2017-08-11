@@ -16,7 +16,8 @@
 
 	body {
 	  background-color: #edeff2;
-
+      background-size:cover;
+      background-image: url("../static/images/maxresdefault.jpg");
 	  font-family: "Calibri", "Roboto", sans-serif;
 	}
 
@@ -224,7 +225,7 @@
 			</div>
 		</div>
 		<div class="title">
-			{{Title}} Chatting...
+			{{Title}}
 		</div>
 	</div>
 	<ul class="messages">
@@ -235,11 +236,9 @@
 		</span>
 
 		<span>
-			<span class="send_message" title="chat by voice" onclick="startDictation()">
-				<span class="text">
-					Voice
-				</span>
-			</span>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<img style="height: 60px; width: 60px; margin-bottom: 39px;" title="chat by voice" onclick="startDictation()" src="../static/images/unnamed.png">
+
 			<i class="icon-microphone" aria-hidden="true"></i>
 			<span class="send_message" id="send_message_id" onclick="send_message()">
 				<span class="icon">

@@ -55,20 +55,11 @@ function put_message($message_input) {
 
     $message = $($('.message_template').clone().html());
     arg = {question: $message_input};
-    $.ajax({url: '/pri', data: arg, type: 'GET',
-        error: function(){
-        },
-        success: function(data) {
-            console.log(data);
-            $message_input += "<br><img style='height:300px;width:300px;' src='"+data+"'>";
-            console.log($message_input);
-            $message.addClass(message_side).find('.text').html($message_input);
-            $('.messages').append($message);
-            $message.addClass('appeared');
-            $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
-        }
-    });
 
+    $message.addClass(message_side).find('.text').html($message_input);
+    $('.messages').append($message);
+    $message.addClass('appeared');
+    $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
 
 
 

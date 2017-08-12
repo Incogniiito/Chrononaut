@@ -77,7 +77,7 @@ def pri():
         ActualImages = []  # contains the link for Large original images, type of  image
         count = 0;
         for a in soup.find_all("div", {"class": "rg_meta"}):
-            if(count == 1):
+            if(count > 0):
                 break;
             link, Type = json.loads(a.text)["ou"], json.loads(a.text)["ity"]
             ActualImages.append((link, Type))

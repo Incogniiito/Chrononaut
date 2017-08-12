@@ -50,16 +50,24 @@ function put_message($message_input) {
     }
 
 
+    
     $('.message_input').val('');    //to remove the typed message from the message box.
     $messages = $('.messages');     //to refer the messages box.
 
     $message = $($('.message_template').clone().html());
-    arg = {question: $message_input};
-
-    $message.addClass(message_side).find('.text').html($message_input);
-    $('.messages').append($message);
-    $message.addClass('appeared');
-    $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
+    $.ajax({url: '/pri', data: arg, type: 'GET',
+        error: function(){
+        },
+        success: function(data) {
+            console.log(data);
+            $message_input += "<br><img style='height:300px;width:300px;' src='"+data+"'>";
+            console.log($message_input);
+            $message.addClass(message_side).find('.text').html($message_input);
+            $('.messages').append($message);
+            $message.addClass('appeared');
+            $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
+        }
+    });
 
 
 

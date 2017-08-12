@@ -27,7 +27,7 @@ function send_message() {
     args = {question: $message_input, id: $id};
     $.ajax({url: '/submit', data: args, type: 'GET',
         error: function(){
-            put_message('Cannot Answer this');
+            put_message('Cannot Answer this ');
         },
         success: function(data) {
             put_message(data);

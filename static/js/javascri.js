@@ -22,7 +22,7 @@ function send_message() {
     $message.addClass('appeared');
     $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
 
-    setTimeout(function(){console.log('Response')}, 5000);
+
     $id = $('#id_').html();
     args = {question: $message_input, id: $id};
     $.ajax({url: '/submit', data: args, type: 'GET',
@@ -60,16 +60,17 @@ function put_message($message_input) {
         },
         success: function(data) {
             console.log(data);
-            var string1 = '<img src=%s>';
-            string1.replace('%s', data);
-            $message_input = $message_input + " " + string1;
+            $message_input += "<br><img style='height:300px;width:300px;' src='"+data+"'>";
+            console.log($message_input);
+            $message.addClass(message_side).find('.text').html($message_input);
+            $('.messages').append($message);
+            $message.addClass('appeared');
+            $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
         }
     });
 
-    $message.addClass(message_side).find('.text').html($message_input);
-    $('.messages').append($message);
-    $message.addClass('appeared');
-    $messages.animate({ scrollTop: $messages.prop('scrollHeight') }, 300);
+
+
 
 }
 function startDictation() {

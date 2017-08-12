@@ -55,8 +55,9 @@ def Submit():
 
 
 @app.route('/pri', methods=['GET', 'POST'])
-def pri(question):
+def pri():
     if request.method == 'GET':
+        question = request.args.get('question')
         def get_soup(url, header):
             return BeautifulSoup(urllib.request.urlopen(urllib.request.Request(url, headers=header)), 'html.parser')
 
@@ -74,9 +75,13 @@ def pri(question):
         soup = get_soup(url, header)
 
         ActualImages = []  # contains the link for Large original images, type of  image
+        count = 0;
         for a in soup.find_all("div", {"class": "rg_meta"}):
+            if(count == 1):
+                break;
             link, Type = json.loads(a.text)["ou"], json.loads(a.text)["ity"]
             ActualImages.append((link, Type))
+            count = count + 1
 
         return str(ActualImages[0][0])
 
